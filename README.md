@@ -42,9 +42,8 @@ I used Microsoft Excel to clean, process, and analyze cyber attack data collecte
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/c658dbc0-83f8-4c3e-bf45-aeba970328b3" />
 
---https://github.com/rashabgh/Cyber-Attacks-Data-Analysis/blob/main/Screenshot%202025-10-20%20071446.png?raw=true-
 
 ## 📥 How to Access the File
 
